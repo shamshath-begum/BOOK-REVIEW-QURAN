@@ -1,0 +1,16 @@
+#heading{
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+}
+body{
+    background-color: rgb(245, 216, 216);
+}
+#btn{
+    padding: 10px 30px;
+
+}
+h4{
+    display: inline;
+    font: size 20px;
+}
